@@ -1,7 +1,7 @@
 # PyLab is a convenience module that bulk imports matplotlib. pyplot (for plotting) and NumPy (for Mathematics and working with arrays) in a single name space. Although many examples use PyLab, it is no longer recommended.
 import matplotlib
 from matplotlib import pylab
-from pylab import *
+from pylab import *# might not work in your editor
 x = linspace(-5,5,1000)
 f = exp(-x**2)
 plot(x,f)
