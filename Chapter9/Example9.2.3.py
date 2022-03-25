@@ -1,3 +1,5 @@
+# Edited by Dr.Mengying Zhang  zhangmengyingkd@163.com
+# Updated on 25/03/2022
 # Page245 9.2.3 Example: Oscillations During an Earthquake
 import numpy as np
 import matplotlib.pyplot as plt
