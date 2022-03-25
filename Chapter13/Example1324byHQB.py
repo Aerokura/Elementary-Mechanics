@@ -1,5 +1,5 @@
-# Edited by Dr.Mengying Zhang  zhangmengyingkd@163.com
-# This version is for Example 13.2.4. The script is done by Year 1 student Qibin Hu. 
+# Edited by Dr.Mengying Zhang(zhangmengyingkd@163.com).
+# This version is for Example 13.2.4. The script is done by Year 1 student Qibin Hu. Please contact huqibin_dk@163.com for more information.
 # Updated on 25/03/2022
 import matplotlib.pyplot as plt
 import matplotlib.image as mp#读图的库
