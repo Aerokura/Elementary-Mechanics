@@ -1,3 +1,5 @@
+# Edited by Dr.Mengying Zhang(zhangmengyingkd@163.com).
+# Updated on 25/03/2022
 import numpy as np
 import networkx as nx
 import matplotlib.pyplot as plt
@@ -106,7 +108,7 @@ def update(j):
     dot.set_data(xx[j],yy[j])
     return line
 ani = animation.FuncAnimation(fig,update,range(1,len(xx)),init_func=init, interval=100)
-#需预装imagemagick
+#需预装imagemagick (Please install imaemagick in advance.)
 ani.save('Project15.9.gif', writer='imagemagick', fps=100)
 plt.show()
         
