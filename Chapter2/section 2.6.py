@@ -1,3 +1,5 @@
+# Edited by Mengying Zhang  zhangmengyingkd@163.com
+# Released on 25/03/2022
 # section 2.6 condition：throw a dice and go
 # run with the code and then remove those sharps(i.e. #) and run it again
 import matplotlib.pyplot as plt
