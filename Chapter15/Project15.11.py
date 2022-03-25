@@ -1,3 +1,5 @@
+# Edited by Dr.Mengying Zhang(zhangmengyingkd@163.com).
+# Updated on 25/03/2022
 #Project15.11 Micro-electromechanical system
 import numpy as np
 import networkx as nx
@@ -5,7 +7,7 @@ import matplotlib.pyplot as plt
 import sympy as sym
 import math
 import matplotlib.animation as animation
-from matplotlib.animation import FuncAnimation # 动画
+from matplotlib.animation import FuncAnimation # for animation 动画
 theta = sym.Function('theta')
 t = sym.Symbol('t',real=True,positive=True)
 k = sym.Symbol('k',real=True,positive=True)
@@ -99,7 +101,7 @@ def update(j):
     time_text.set_text(time_template %(0.001*j))
     return line, time_text
 ani = animation.FuncAnimation(fig,update,range(1,i),init_func=init, interval=100)
-#需预装imagemagick
+#需预装imagemagick Please install imagemagick in advance.
 ani.save('Project15.11i.gif', writer='imagemagick', fps=100)
 plt.show()
 
