@@ -1,4 +1,7 @@
+# Edited by Dr.Mengying Zhang  zhangmengyingkd@163.com
+# Updated on 25/03/2022
 #page 410 13.2.4 Center of mass from image analysis
+#Replicate Example 13.2.4, get the figure from the textbook.
 #复现书上例题“13.2.4 Example: Center of Mass from Image Analysis”的程序，处理图片可以直接从书上电子版截取，不同同学不需要相同，讨论滤镜选择的方式对形心判断的影响。
 import numpy as np
 import matplotlib.pyplot as plt
@@ -13,7 +16,7 @@ print(z.shape)
 plt.subplot(1,2,1)
 plt.imshow(z)
 #plt.axis('equal')
-z2 = (z[:,:,0]+z[:,:,1]+z[:,:,2])<1.5#去掉蓝光，剔除背景
+z2 = (z[:,:,0]+z[:,:,1]+z[:,:,2])<1.5#
 print(type(z2))
 print(z2.shape)
 plt.subplot(1,2,2)
