@@ -1,3 +1,5 @@
+# Edited by Dr.Mengying Zhang  zhangmengyingkd@163.com
+# Updated on 25/03/2022
 # page 112, 5.7.1 Example: Motion of a Hanging Block
 import numpy as np
 import matplotlib.pyplot as plt
