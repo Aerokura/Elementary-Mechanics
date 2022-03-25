@@ -1,4 +1,6 @@
-#Project15.11 Micro-electromechanical system
+# Edited by Dr.Mengying Zhang(zhangmengyingkd@163.com).
+# Updated on 25/03/2022
+#Project15.11 Micro-electromechanical system version2
 import numpy as np
 import networkx as nx
 import matplotlib.pyplot as plt
