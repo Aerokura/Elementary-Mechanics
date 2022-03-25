@@ -1,3 +1,5 @@
+# Edited by Dr.Mengying Zhang  zhangmengyingkd@163.com
+# Updated on 25/03/2022
 # units on the computer
 x = 2.0 # m
 t = 10.0 # s
