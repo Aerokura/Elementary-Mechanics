@@ -1,3 +1,5 @@
+# Edited by Dr.Mengying Zhang  zhangmengyingkd@163.com
+# Updated on 25/03/2022
 import numpy as np
 import matplotlib.pyplot as plt
 # 4.1.1 Example: Motion of a falling Tennis Ball
