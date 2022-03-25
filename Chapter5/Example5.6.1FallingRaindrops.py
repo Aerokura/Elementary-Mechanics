@@ -1,3 +1,5 @@
+# Edited by Dr.Mengying Zhang  zhangmengyingkd@163.com
+# Updated on 25/03/2022
 # page 99, 5.6.1 Example: Falling Raindrops
 import numpy as np
 import matplotlib.pyplot as plt
