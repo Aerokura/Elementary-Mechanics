@@ -1,3 +1,5 @@
+# Edited by Dr.Mengying Zhang  zhangmengyingkd@163.com
+# Updated on 25/03/2022
 #5.3.1 Example：Acceleration and Forces on a Lunar Lander
 import numpy as np
 import matplotlib.pyplot as plt
