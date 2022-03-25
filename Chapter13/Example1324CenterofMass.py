@@ -1,4 +1,4 @@
-# Edited by Dr.Mengying Zhang  zhangmengyingkd@163.com
+# Edited by Dr.Mengying Zhang(zhangmengyingkd@163.com).
 # Updated on 25/03/2022
 #page 410 13.2.4 Center of mass from image analysis
 #Replicate Example 13.2.4, get the figure from the textbook.
